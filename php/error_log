@@ -1,0 +1,354 @@
+[09-Jul-2019 13:23:28 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_sub_productos_nuevos' doesn't exist in /home1/cane/sepron.com/php/controlador.php:291
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(291): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(73): resumen_productos()
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 291
+[09-Jul-2019 13:23:29 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_sub_productos_nuevos' doesn't exist in /home1/cane/sepron.com/php/controlador.php:278
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(278): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(70): sub_productos(NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 278
+[15-Oct-2019 17:31:31 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[15-Oct-2019 17:31:38 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[15-Oct-2019 17:31:40 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[15-Oct-2019 17:31:43 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto('1', NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[15-Oct-2019 17:31:45 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto('1', '1')
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[15-Oct-2019 17:34:06 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[16-Oct-2019 07:31:20 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[16-Oct-2019 11:25:17 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[16-Oct-2019 11:25:29 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[16-Oct-2019 11:27:54 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto('7', NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[16-Oct-2019 11:28:19 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto('7', '17')
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[16-Oct-2019 11:28:46 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto('7', NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[16-Oct-2019 11:28:53 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[16-Oct-2019 11:29:16 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto('7', NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[16-Oct-2019 11:29:36 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto('7', '15')
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[16-Oct-2019 11:29:54 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto('7', '16')
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[17-Oct-2019 10:34:46 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[17-Oct-2019 10:34:50 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[17-Oct-2019 10:34:57 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto('7', NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[17-Oct-2019 10:35:07 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto('7', '16')
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[22-Oct-2019 09:48:17 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[22-Oct-2019 09:48:25 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[22-Oct-2019 09:48:33 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto('3', NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[22-Oct-2019 14:05:00 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[22-Oct-2019 14:05:04 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[22-Oct-2019 14:05:09 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto('7', NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[22-Oct-2019 14:05:15 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto('7', '17')
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[23-Oct-2019 09:49:29 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[23-Oct-2019 10:04:31 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[23-Oct-2019 10:04:37 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto('7', NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[23-Oct-2019 10:04:49 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto('7', '17')
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[24-Oct-2019 10:56:24 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[24-Oct-2019 10:56:30 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[24-Oct-2019 10:56:34 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[24-Oct-2019 11:51:52 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[24-Oct-2019 11:52:31 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[24-Oct-2019 11:52:41 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto('1', NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[24-Oct-2019 11:52:50 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[24-Oct-2019 11:52:54 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[24-Oct-2019 11:52:59 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[31-Oct-2019 10:24:31 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[31-Oct-2019 10:24:36 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[31-Oct-2019 10:40:24 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto('7', NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[31-Oct-2019 10:40:34 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto('7', '17')
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[05-Nov-2019 11:50:01 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[05-Nov-2019 11:50:10 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[05-Nov-2019 14:13:25 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[05-Nov-2019 14:13:28 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[05-Nov-2019 14:13:34 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto('7', NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[05-Nov-2019 14:13:37 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto('7', '17')
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[06-Nov-2019 12:17:40 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[07-Nov-2019 16:04:32 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[07-Nov-2019 16:04:47 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[07-Nov-2019 16:04:50 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto('1', NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[07-Nov-2019 16:04:53 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto('1', '1')
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[07-Nov-2019 16:51:24 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
+[07-Nov-2019 16:51:34 America/Guayaquil] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'cane_productos_nuevos_2019.tb_stock' doesn't exist in /home1/cane/sepron.com/php/controlador.php:161
+Stack trace:
+#0 /home1/cane/sepron.com/php/controlador.php(161): PDOStatement->execute(Array)
+#1 /home1/cane/sepron.com/php/controlador.php(26): stock_producto(NULL, NULL)
+#2 {main}
+  thrown in /home1/cane/sepron.com/php/controlador.php on line 161
